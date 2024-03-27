@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Luiz Henrique!👋
 
 
-- 🌱 Atualmente estou estudando JavaScript.
+- 🌱 Back-end developer
 <div align="center">
   <a href="https://github.com/Luizh97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizh97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
